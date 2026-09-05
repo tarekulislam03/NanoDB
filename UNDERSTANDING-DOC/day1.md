@@ -37,3 +37,9 @@ int main() {
 
 It just loops infinitely and prints "NanoDB > "; and takes input `input_buffer`. 
 Now only one command is added which is `.exit`, which just break the loop and terminates the program.
+
+Today, I didn't learn anything new, but starting a new project has been always exciting for me.
+
+Let's see, how it goes.
+
+My goal is make a very simple SQL Database, with basic CRUD operation and maybe sorting features also.
